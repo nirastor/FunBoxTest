@@ -1,5 +1,5 @@
 # FunBoxTest
-Тестовое задание в FunBox
+Тестовое задание в FunBox.
 Ссылка на страницу — https://nirastor.github.io/FunBoxTest/
 ## Задание
 ![Demo](prototype.png)
