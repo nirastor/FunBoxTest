@@ -279,6 +279,10 @@ body {
     z-index: 30;
 }
 
+.product-feature-digit {
+    font-weight: bold;
+}
+
 .product-last-call {
     display: block;
     box-sizing: border-box;
